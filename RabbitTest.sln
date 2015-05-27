@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publisher\Publ
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example 1-2", "Example 1-2", "{3C1DDB1C-AAFA-4943-AEA8-9FFE4A592F48}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example  3", "Example  3", "{C992ADCC-DCA3-426E-A6F5-123B8769397D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example 3-4", "Example 3-4", "{C992ADCC-DCA3-426E-A6F5-123B8769397D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogPublisher", "LogPublisher\LogPublisher.csproj", "{B635FE0C-B703-46DB-8B39-FD3D7228BB8A}"
 EndProject
